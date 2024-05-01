@@ -5,7 +5,7 @@ and mobile.
 
 ![A screenshot of the project](./2Dthumbnail.png)
 
-Live Demo :
+Live Demo : https://larrypursuit.github.io/2D_Portfolio/
 
 # How to run
 
