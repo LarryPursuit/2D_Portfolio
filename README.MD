@@ -5,7 +5,7 @@ and mobile.
 
 ![A screenshot of the project](./2Dthumbnail.png)
 
-Live Demo :
+Live Demo : https://larrypursuit.github.io/2D_Portfolio/
 
 # How to run
 
@@ -24,4 +24,5 @@ Note: You need `Node.js` and `npm` installed on your machine.
 # How to host?
 
 Here is a [guide](HOW_TO_DEPLOY.MD).
+
 # 2D_Portfolio
