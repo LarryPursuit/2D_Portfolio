@@ -5,7 +5,7 @@ and mobile. There is also resources on freecodecamp.
 
 ![A screenshot of the project](./2Dthumbnail.png)
 
-Live Demo : https://larrypursuit.github.io/2D_Portfolio/
+Live Demo : https://2dportfolio.netlify.app/
 
 # How to run
 
